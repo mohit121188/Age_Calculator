@@ -1,4 +1,3 @@
-# Age_Calculator
-#A small standalone application in python which can calculate age. this small application is usefule in understanding working of python modules such as tkinter
-#tkcalendar datetime etc.
-![alt text](Age_Calculator/screenshot1.jpg "Screenshot 1")
+A small standalone application in Python which can calculate age. This small application is useful in understanding the workings of Python modules such as Tkinter, tkcalendar, datetime, etc.
+
+![Screenshot 1](/Age_Calculator/screenshot1.jpg)
